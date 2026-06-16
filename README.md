@@ -8,3 +8,5 @@ Hola, este es mi primer fichero .md
 ```js
 console.log("Ejemplo JS");
 ```
+
+Modificación desde GIT por otro compañero.
